@@ -71,7 +71,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/BRANDEDKING8",
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/BRANDED_WORLD",
+                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/DP_chennal_OP",
             ),
         ],
         [
@@ -101,7 +101,7 @@ def stream_markup(_, chat_id):
                 text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/BRANDEDKING8",
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/BRANDED_WORLD",
+                text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/DP_chennal_OP",
             ),
         ],
         [
