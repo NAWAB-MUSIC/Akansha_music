@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/ll_NAWAB_STOR_ll",
+                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/+ZB_Y1NEaDjk4M2Rl",
             ),
             InlineKeyboardButton(
                 text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/+ZB_Y1NEaDjk4M2Rl",
@@ -76,7 +76,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                 text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/WCGKING/BRANDEDKING",
+                 text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/NAWAB-MUSIC/Akansha_music/blob/main/BRANDEDKING/utils/inline/play.py",
             ),
             InlineKeyboardButton(
                 text="🦋ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ll_NAWAB_STOR_ll",
@@ -98,7 +98,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/ll_NAWAB_OWNER_lll",
+                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/Prettyy_Dps",
             ),
             InlineKeyboardButton(
                 text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/+ZB_Y1NEaDjk4M2Rl",
@@ -106,7 +106,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/WCGKING/BRANDEDKING",
+                text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/NAWAB-MUSIC/Akansha_music/blob/main/BRANDEDKING/utils/inline/play.py",
             ),
             InlineKeyboardButton(
                 text="🦋 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ll_NAWAB_STOR_ll",
